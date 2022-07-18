@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/SpringBootSecurityRomanian/Forms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootSecurityRomanian/Forms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootSecurityRomanian/HttpBasic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootSecurityRomanian/HttpBasic/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootSecurityRomanian/Jwt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootSecurityRomanian/Jwt/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootSecurityRomanian/UnsecureExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootSecurityRomanian/UnsecureExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_3/demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_3/demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_4/mod4_crypto_portfolio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_4/mod4_crypto_portfolio/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_4/mod4_crypto_portfolio_base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_4/mod4_crypto_portfolio_base/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_5/mod5_crypto_portfolio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_5/mod5_crypto_portfolio/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_5/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_7/mod7_crypto_portfolio_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_7/mod7_crypto_portfolio_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_7/mod7_crypto_portfolio_2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_7/mod7_crypto_portfolio_2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_7/mod7_crypto_portfolio_3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_7/mod7_crypto_portfolio_3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_7/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_7/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_8/mod8_crypto_portfolio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_8/mod8_crypto_portfolio/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_8/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_8/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

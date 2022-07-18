@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SpringBootSecurity/Jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootSecurity/Forms/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootSecurity/HttpBasic/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootSecurity/UnsecureExample/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootSecurityRomanian/UnsecureExample/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootSecurityRomanian/Forms/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="true" project-jdk-name="zulu-13" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

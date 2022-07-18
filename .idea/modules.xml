@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SecurityMaster.iml" filepath="$PROJECT_DIR$/.idea/SecurityMaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootSecurityRomanian/UnsecureExample/bootsecurity.iml" filepath="$PROJECT_DIR$/SpringBootSecurityRomanian/UnsecureExample/bootsecurity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_3/demo/demo.iml" filepath="$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_3/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_4/mod4_crypto_portfolio/mod4_crypto_portfolio.iml" filepath="$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_4/mod4_crypto_portfolio/mod4_crypto_portfolio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_4/mod4_crypto_portfolio_base/mod4_crypto_portfolio_base.iml" filepath="$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_4/mod4_crypto_portfolio_base/mod4_crypto_portfolio_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_5/mod5_crypto_portfolio/mod5_crypto_portfolio.iml" filepath="$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_5/mod5_crypto_portfolio/mod5_crypto_portfolio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_7/mod7_crypto_portfolio_1/mod7_crypto_portfolio_1.iml" filepath="$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_7/mod7_crypto_portfolio_1/mod7_crypto_portfolio_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_7/mod7_crypto_portfolio_2/mod7_crypto_portfolio_2.iml" filepath="$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_7/mod7_crypto_portfolio_2/mod7_crypto_portfolio_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_7/mod7_crypto_portfolio_3/mod7_crypto_portfolio_3.iml" filepath="$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_7/mod7_crypto_portfolio_3/mod7_crypto_portfolio_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_8/mod8_crypto_portfolio/mod8_crypto_portfolio.iml" filepath="$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_8/mod8_crypto_portfolio/mod8_crypto_portfolio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_3/module_3.iml" filepath="$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_3/module_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_4/module_4.iml" filepath="$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_4/module_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_5/module_5.iml" filepath="$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_5/module_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_7/module_7.iml" filepath="$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_7/module_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_8/module_8.iml" filepath="$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/module_8/module_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/spring-security-common-threats.iml" filepath="$PROJECT_DIR$/spring-framework-securing-applications-against-common-security-threats/spring-security-common-threats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootSecurityRomanian/Forms/springboot-security-forms.iml" filepath="$PROJECT_DIR$/SpringBootSecurityRomanian/Forms/springboot-security-forms.iml" />
+    </modules>
+  </component>
+</project>

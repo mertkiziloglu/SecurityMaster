@@ -1,0 +1,9 @@
+# Project exclude paths
+/spring-framework-securing-applications-against-common-security-threats/module_3/demo/target/
+/spring-framework-securing-applications-against-common-security-threats/module_4/mod4_crypto_portfolio/target/
+/spring-framework-securing-applications-against-common-security-threats/module_4/mod4_crypto_portfolio_base/target/
+/spring-framework-securing-applications-against-common-security-threats/module_5/mod5_crypto_portfolio/target/
+/spring-framework-securing-applications-against-common-security-threats/module_7/mod7_crypto_portfolio_1/target/
+/spring-framework-securing-applications-against-common-security-threats/module_7/mod7_crypto_portfolio_2/target/
+/spring-framework-securing-applications-against-common-security-threats/module_7/mod7_crypto_portfolio_3/target/
+/spring-framework-securing-applications-against-common-security-threats/module_8/mod8_crypto_portfolio/target/

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mod7_crypto_portfolio_2" />
+        <module name="mod7_crypto_portfolio_1" />
+        <module name="mod5_crypto_portfolio" />
+        <module name="bootsecurity" />
+        <module name="mod4_crypto_portfolio" />
+        <module name="mod8_crypto_portfolio" />
+        <module name="springboot-security-forms" />
+        <module name="mod7_crypto_portfolio_3" />
+        <module name="mod4_crypto_portfolio_base" />
+        <module name="demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bootsecurity" target="1.8" />
+      <module name="bootsecurity (1)" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="mod4_crypto_portfolio" target="1.8" />
+      <module name="mod4_crypto_portfolio_base" target="1.8" />
+      <module name="mod5_crypto_portfolio" target="1.8" />
+      <module name="mod7_crypto_portfolio_1" target="1.8" />
+      <module name="mod7_crypto_portfolio_2" target="1.8" />
+      <module name="mod7_crypto_portfolio_3" target="1.8" />
+      <module name="mod8_crypto_portfolio" target="1.8" />
+      <module name="module_3" target="1.8" />
+      <module name="module_4" target="1.8" />
+      <module name="module_5" target="1.8" />
+      <module name="module_7" target="1.8" />
+      <module name="module_8" target="1.8" />
+      <module name="spring-boot-security-jwt" target="1.8" />
+      <module name="spring-security-common-threats" target="1.8" />
+      <module name="springboot-security-forms" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="bootsecurity" options="-parameters" />
+      <module name="bootsecurity (1)" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="mod4_crypto_portfolio" options="-parameters" />
+      <module name="mod4_crypto_portfolio_base" options="-parameters" />
+      <module name="mod5_crypto_portfolio" options="-parameters" />
+      <module name="mod7_crypto_portfolio_1" options="-parameters" />
+      <module name="mod7_crypto_portfolio_2" options="-parameters" />
+      <module name="mod7_crypto_portfolio_3" options="-parameters" />
+      <module name="mod8_crypto_portfolio" options="-parameters" />
+      <module name="spring-boot-security-jwt" options="-parameters" />
+      <module name="springboot-security-forms" options="-parameters" />
+    </option>
+  </component>
+</project>
