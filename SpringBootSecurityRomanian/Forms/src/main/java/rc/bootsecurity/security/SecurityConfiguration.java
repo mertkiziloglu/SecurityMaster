@@ -32,10 +32,10 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
                 .antMatchers("/index.html").permitAll()
                 .antMatchers("/profile/**").authenticated()
                 .antMatchers("/admin/**").hasRole("ADMIN")
-                .antMatchers("/management/**").hasAnyRole("ADMIN", "MANAGER")
+                .antMatchers("/management/**").hasAnyRole("ADMIN", "MANAGER")//admin and manager can access management
                 .antMatchers("/api/public/test1").hasAuthority("ACCESS_TEST1")
                 .antMatchers("/api/public/test2").hasAuthority("ACCESS_TEST2")
-                .antMatchers("/api/public/users").hasRole("ADMIN")
+                .antMatchers("/api/public/users").hasRole("ADMIN") //admin role is required to access this endpoint
                 .and()
                 .formLogin()
                 .loginProcessingUrl("/signin")
